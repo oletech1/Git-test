@@ -1,0 +1,12 @@
+/**
+ * @Description
+ * @Author:WangChao
+ * @Date:2022-01-09 21:15
+ * @Param:
+ * @Return:
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
+}
